@@ -1,6 +1,6 @@
 .path{
-  animation: path 3s linear forwards;
-  stroke-dasharray: 2500 10000;
+  animation: path 2s linear forwards;
+  stroke-dasharray: 2250 3000;
   stroke-dashoffset: 2000;
 }
 
