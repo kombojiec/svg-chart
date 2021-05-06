@@ -1,7 +1,7 @@
 # SVG Chart
 
 **О проекте**  
-Этот [проект](https://www.ru) 
+Этот [проект](https://kombojiec.github.io/svg-chart/) 
 является тестовым заданием.
 
 **Описание:**
